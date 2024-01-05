@@ -134,8 +134,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/build",
-		"source" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server"
+		"build" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/build",
+		"source" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt"
 	},
 	"version" : 
 	{

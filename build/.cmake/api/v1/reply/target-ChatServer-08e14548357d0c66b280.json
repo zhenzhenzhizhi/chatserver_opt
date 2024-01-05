@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/bin/ChatServer"
+			"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/bin/ChatServer"
 		}
 	],
 	"backtrace" : 1,
@@ -83,34 +83,34 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -g"
+					"fragment" : "-g"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/include"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/include/server"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/include/server/db"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/include/server/model"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/include/server/model"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/include/server/redis"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/include/server/redis"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/thridparty"
+					"path" : "/home/ouyang/CLionProjects/distributed_cluster_chat_server/chatserver_opt/thridparty"
 				}
 			],
 			"language" : "CXX",
@@ -134,7 +134,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g -g",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{
